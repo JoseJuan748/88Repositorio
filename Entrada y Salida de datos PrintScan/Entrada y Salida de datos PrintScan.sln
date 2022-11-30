@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Entrada y Salida de datos PrintScan", "Entrada y Salida de datos PrintScan\Entrada y Salida de datos PrintScan.vcxproj", "{43602CD4-B628-4E3E-9401-CFECE084FD38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43602CD4-B628-4E3E-9401-CFECE084FD38}.Debug|x64.ActiveCfg = Debug|x64
+		{43602CD4-B628-4E3E-9401-CFECE084FD38}.Debug|x64.Build.0 = Debug|x64
+		{43602CD4-B628-4E3E-9401-CFECE084FD38}.Debug|x86.ActiveCfg = Debug|Win32
+		{43602CD4-B628-4E3E-9401-CFECE084FD38}.Debug|x86.Build.0 = Debug|Win32
+		{43602CD4-B628-4E3E-9401-CFECE084FD38}.Release|x64.ActiveCfg = Release|x64
+		{43602CD4-B628-4E3E-9401-CFECE084FD38}.Release|x64.Build.0 = Release|x64
+		{43602CD4-B628-4E3E-9401-CFECE084FD38}.Release|x86.ActiveCfg = Release|Win32
+		{43602CD4-B628-4E3E-9401-CFECE084FD38}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12CD2967-2921-4803-9CEA-44BC6F483413}
+	EndGlobalSection
+EndGlobal

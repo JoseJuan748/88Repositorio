@@ -1,0 +1,5 @@
+﻿  Entrada y Salida de datos PrintScan.cpp
+C:\Users\UNIVERSIDAD AMERIKE\Desktop\1.- 88\Entrada y Salida de datos PrintScan\Entrada y Salida de datos PrintScan\Entrada y Salida de datos PrintScan.cpp(35,11): warning C4477: 'scanf' : la cadena de formato '%d' requiere un argumento de tipo 'int *', pero el argumento variádico 1 tiene el tipo 'double *'
+C:\Users\UNIVERSIDAD AMERIKE\Desktop\1.- 88\Entrada y Salida de datos PrintScan\Entrada y Salida de datos PrintScan\Entrada y Salida de datos PrintScan.cpp(38,12): warning C4477: 'printf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 1 tiene el tipo 'std::string'
+C:\Users\UNIVERSIDAD AMERIKE\Desktop\1.- 88\Entrada y Salida de datos PrintScan\Entrada y Salida de datos PrintScan\Entrada y Salida de datos PrintScan.cpp(42,12): warning C4477: 'printf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'double'
+  Entrada y Salida de datos PrintScan.vcxproj -> C:\Users\UNIVERSIDAD AMERIKE\Desktop\1.- 88\Entrada y Salida de datos PrintScan\x64\Debug\Entrada y Salida de datos PrintScan.exe

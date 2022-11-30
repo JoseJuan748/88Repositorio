@@ -1,0 +1,7 @@
+﻿  24_10_2022_Arreglos predefinidos.cpp
+C:\Users\UNIVERSIDAD AMERIKE\Desktop\1.- 88\24_10_2022_Arreglos predefinidos\24_10_2022_Arreglos predefinidos\24_10_2022_Arreglos predefinidos.cpp(13,10): warning C4101: 'vec2': variable local sin referencia
+C:\Users\UNIVERSIDAD AMERIKE\Desktop\1.- 88\24_10_2022_Arreglos predefinidos\24_10_2022_Arreglos predefinidos\24_10_2022_Arreglos predefinidos.cpp(16,11): warning C4101: 'vec5': variable local sin referencia
+C:\Users\UNIVERSIDAD AMERIKE\Desktop\1.- 88\24_10_2022_Arreglos predefinidos\24_10_2022_Arreglos predefinidos\24_10_2022_Arreglos predefinidos.cpp(12,9): warning C4101: 'vec1': variable local sin referencia
+C:\Users\UNIVERSIDAD AMERIKE\Desktop\1.- 88\24_10_2022_Arreglos predefinidos\24_10_2022_Arreglos predefinidos\24_10_2022_Arreglos predefinidos.cpp(14,10): warning C4101: 'vec3': variable local sin referencia
+C:\Users\UNIVERSIDAD AMERIKE\Desktop\1.- 88\24_10_2022_Arreglos predefinidos\24_10_2022_Arreglos predefinidos\24_10_2022_Arreglos predefinidos.cpp(17,12): warning C4101: 'vec6': variable local sin referencia
+  24_10_2022_Arreglos predefinidos.vcxproj -> C:\Users\UNIVERSIDAD AMERIKE\Desktop\1.- 88\24_10_2022_Arreglos predefinidos\x64\Debug\24_10_2022_Arreglos predefinidos.exe
