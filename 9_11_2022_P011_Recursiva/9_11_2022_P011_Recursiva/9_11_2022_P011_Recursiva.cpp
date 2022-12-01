@@ -1,4 +1,4 @@
-// 9_11_2022_P011_Recursiva.cpp : Este archivo contiene la función "main". La ejecución del programa comienza y termina ahí.
+// 9_11_2022_P014_Recursiva.cpp : Este archivo contiene la función "main". La ejecución del programa comienza y termina ahí.
 // Jose Juan Bañuelos Hernandez
 // Recursividad
 
